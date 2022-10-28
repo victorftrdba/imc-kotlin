@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AtpDevMobile</string>
+    <string name="calculadora_imc">Calculadora IMC</string>
+    <string name="peso_kg">Peso (kg)</string>
+    <string name="altura_cm">Altura (m)</string>
+    <string name="calcular">Calcular</string>
+    <string name="textview"></string>
+</resources>
